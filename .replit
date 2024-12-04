@@ -1,0 +1,8 @@
+language = "nodejs"
+run = "npm run dev"
+entrypoint = "pages/index.js"
+
+[env]
+SLACK_BOT_TOKEN = "your_slack_bot_token"
+SLACK_SIGNING_SECRET = "your_slack_signing_secret"
+
