@@ -12,7 +12,7 @@ HiddenBridge is an anonymous and secure platform for voice and video calls, desi
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+4. Open https://4wiwlh38golqzfrj60kzaeygq92ptzi4.vercel.app/ in your browser
 
 ## Contributing
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information.
